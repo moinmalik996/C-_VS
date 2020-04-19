@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {
     int students;
 
